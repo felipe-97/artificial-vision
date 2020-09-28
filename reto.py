@@ -9,10 +9,10 @@ os.system("cls")
 
 print("Enter first number: ")
 print("[1]. Basic Level ")
-print("[2]. Medium Level ")
+print("[2]. Medium Level ")  
 print("[3]. Advance Level")
 print("Please, enter any option (1-3): ")
-op = input()
+op = input()    
 if op == '1' :
     print("Basic Level 50 Points")
     print("::::::::::::::::::::::::")
